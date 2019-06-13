@@ -1,17 +1,18 @@
-Основные команды Git
+Основные команды Git 
+
 init
-git init - создание нового репозитория
+```git init - создание нового репозитория```
 
 Initialized empty Git repository in <dir_path>/.git/
 config
-git config - конфигурация Git
+```git config - конфигурация Git```
 
-git config --global user.name "______"
+```git config --global user.name "______"```
 имя пользователя (выводится в коммитах)
-git config --global user.email "______"
+```git config --global user.email "______"```
 почтовый адрес пользователя (выводится в коммитах)
 status
-git status - проверка статуса репозитория
+```git status - проверка статуса репозитория```
 
 On branch master
 
